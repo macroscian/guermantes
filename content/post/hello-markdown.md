@@ -1,7 +1,7 @@
 ---
-title: "A Plain Markdown Post"
-author: "Jane Doe"
+author: Jane Doe
 date: "2016-12-30T21:49:57-07:00"
+title: A Plain Markdown Post
 ---
 
 This is a post written in plain Markdown (`*.md`) instead of R Markdown (`*.Rmd`). The major differences are:

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://www.guermantes.xysz/post/</loc>
+    <lastmod>2017-12-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.guermantes.xysz/post/tanka-theme-demo/</loc>
+    <lastmod>2017-12-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.guermantes.xysz/</loc>
+    <lastmod>2017-12-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.guermantes.xysz/post/hello-markdown/</loc>
+    <lastmod>2016-12-30T21:49:57-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.guermantes.xysz/categories/</loc>
+    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.guermantes.xysz/post/2015-07-23-r-rmarkdown/</loc>
+    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.guermantes.xysz/tags/plot/</loc>
+    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.guermantes.xysz/categories/r/</loc>
+    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.guermantes.xysz/tags/r-markdown/</loc>
+    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.guermantes.xysz/tags/regression/</loc>
+    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.guermantes.xysz/tags/</loc>
+    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.guermantes.xysz/post/lorem-ipsum/</loc>
+    <lastmod>2015-01-01T13:09:13-06:00</lastmod>
+  </url>
+  
+</urlset>
