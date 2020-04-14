@@ -1,5 +1,5 @@
 baseurl = "https://www.guermantes.xysz"
-title = "Ultimate Concerns"
+title = "Gavin Kelly"
 author = "Gavin Kelly"
 canonifyurls = true
 languagecode = "en"
@@ -34,6 +34,10 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
     url = "https://twitter.com/gavinpaulkelly"
     weight = 4
 [[menu.main]]
+    name = "Orcid"
+    url = "https://orcid.org/0000-0001-7219-560X"
+    weight = 5
+[[menu.main]]
     name = "RSS"
     url = "/index.xml"
-    weight = 5
+    weight = 6
