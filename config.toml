@@ -82,27 +82,28 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
   weight = 1
   identifier = "github"
   name = "GitHub"
-  pre = "<i class=\"sidebar-button-icon fa fa-lg fa-github\"></i>"
+  pre = "<i class=\"sidebar-button-icon fab fa-lg fa-github\"></i>"
   url = "https://github.com/macroscian"
 [[menu.links]]
   weight = 2
   identifier = "stackoverflow"
   name = "Stack Overflow"
-  pre = "<i class=\"sidebar-button-icon fa fa-lg fa-stack-overflow\"></i>"
-  url = "https://stackoverflow.com/users/users/3227989/gavin-kelly"
+  pre = "<i class=\"sidebar-button-icon fab fa-lg fa-stack-overflow\"></i>"
+  url = "https://stackoverflow.com/users/3227989/gavin-kelly"
 
 [[menu.links]]
-    name = "LinkedIn"
-    identifier = "linkedin"
-    url = "https://www.linkedin.com/in/gavin-kelly-7351b4a"
-    weight = 3
+  name = "LinkedIn"
+  identifier = "linkedin"
+  pre = "<i class=\"sidebar-button-icon fab fa-lg fa-linkedin\"></i>"
+  url = "https://www.linkedin.com/in/gavin-kelly-7351b4a"
+  weight = 3
 
-[[menu.main]]
-    name = "Orcid"
-    identifier="orcid"
-      pre = "<i class=\"sidebar-button-icon fa fa-lg fa-orcid\"></i>"
-    url = "https://orcid.org/0000-0001-7219-560X"
-    weight = 4
+[[menu.links]]
+  name = "Orcid"
+  identifier="orcid"
+  pre = "<i class=\"sidebar-button-icon fab fa-lg fa-orcid\"></i>"
+  url = "https://orcid.org/0000-0001-7219-560X"
+  weight = 4
 
 
 [[menu.misc]]
