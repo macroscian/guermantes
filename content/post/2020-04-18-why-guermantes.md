@@ -1,15 +1,15 @@
 ---
-title: What's Guermantes?
+title: Why Guermantes?
 author: Gavin Kelly
 date: '2020-04-18'
-slug: what-s-guermantes
+slug: why-guermantes
 categories: [Musings]
 tags: [Proust]
 keywords:
   - literature
 ---
 *Guermantes* is a place, family name, and leitmotif that pervades
-Marcel Proust's magnificent novel *In Search of Lost Time*, and faced
+Marcel Proust's magnificent novel *In Search of Lost Time*; faced
 with chosing a name for my blog, a tribute to my favourite novel
 seemed as good as any.
 <!--more-->
@@ -35,4 +35,5 @@ self-discovery that avoids self-indulgence.
 
 Most posts on here won't be on this theme, but I may well dot the more
 scientific/mathematical posts with more meandering thoughts on some of
-my favourite cultural references.
+my favourite cultural references. And the '.xyz' part of the site name
+represents my three of my favourite mathematical symbols.
