@@ -1,7 +1,7 @@
 ---
 title: Why Guermantes?
 author: Gavin Kelly
-date: '2020-04-18'
+date: 2020-04-18
 slug: why-guermantes
 categories: [Musings]
 tags: [Proust]
