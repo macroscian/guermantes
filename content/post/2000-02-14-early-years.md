@@ -19,8 +19,8 @@ Isabel had her first birthday on the 14th, and we had a party for her
 at home which 12 of her little friends attended. Phew! She loves all
 her new presents, and we’re trying to get her to walk with her new
 push-a-longs. She’s standing for substantial amounts of time now, and
-taking the odd step unsupported. Her vocabulary now includes *do* (g)
-and *birrrds* as she’s quite into animals, but *ka* (t) is still her
+taking the odd step unsupported. Her vocabulary now includes *do*(g)
+and *birrrds* as she’s quite into animals, but *ka*(t) is still her
 favourite
 
 This is the first installment of news, so there’s a fair bit to catch

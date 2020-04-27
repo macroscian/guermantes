@@ -23,12 +23,12 @@ process, which is subject to revision in the presence of compelling new
 evidence when a further round of the scientic process is undertaken.
 
 Using *the science* to answer questions that aren't purely scientific,
-or even entirely well-formed, is cloaking a necessarily politcal
+or even entirely well-formed, is cloaking a necessarily political
 decision in order to protect the messenger from any adverse
 effects. For instance, how is it possible to give a scientific answer
 to when to stop lockdown, without giving any criterion of success
-(pondering the (trolley
-problem)[https://en.wikipedia.org/wiki/Trolley_problem] for a moment
+(pondering the [trolley
+problem](https://en.wikipedia.org/wiki/Trolley_problem) for a moment
 should quickly relieve one of the notion that there's an obvious
 definition of success). The problem of balancing e.g. economic with
 medical impact of such a decision is necessarily deepy embedded in how
@@ -41,7 +41,7 @@ render them meaningless, using *the science* to entirely justify a
 decision is a disingenuous simplification of what is a complex
 question.
 
-There's a common fallacy that a question that is simple to state
+There's a common fallacy that a question which is simple to state
 demands, and is capable of, a simple answer. It is hard for the expert
 to refute this hidden assumption without appearing to either dodge the
 question or appear to be gatekeeping. Stating "I don't know, but I do
@@ -49,10 +49,10 @@ know that anyone claiming to know is probably wrong" isn't always
 going to help, but is possibly honest. If the question is answerable
 using our current knowledge, then giving a reply that includes all the
 assumptions and quantifies the uncertainty is already optimisitic;
-giving a reply when we have (known
-unknowns)[https://en.wikipedia.org/wiki/There_are_known_knowns] is
+giving a reply when we have [known
+unknowns](https://en.wikipedia.org/wiki/There_are_known_knowns) is
 pre-judging the outcome of the scientific process - those gaps in our
-knowledge can only really be filled with careful inference from
+knowledge can only really be filled by careful inference from
 experimentation and observation.
 
 I suspect what is frequently happening is that the views of a
@@ -61,12 +61,12 @@ then through a process akin to Chinese Whispers any accompanying
 context, subtleties or caveats are lost when it is turned into
 policy. This is perhaps unavoidable, given the need to make decisions,
 but greater public understanding of the scientific process and of
-uncertainty would help. When we are caught in the rain when a forecast
+uncertainty would help. 
+
+When we are caught in the rain when a forecast
 said there was a 10% chance of rain, it is possible to feel let down -
 only when we find out that 90% of people experienced no rain that day
 (or that of the many times that forecaster said 10% chance of rain, it
 didn't rain on approximately 90% of those occassions - see, even in
 such a simple 'prediction' there is room for multiple interpretations)
 are we justified in claiming the forecaster be wrong.
-
-
